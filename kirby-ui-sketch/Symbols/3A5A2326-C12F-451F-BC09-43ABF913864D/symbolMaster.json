@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 109,
+  "changeIdentifier": 112,
   "do_objectID": "3A5A2326-C12F-451F-BC09-43ABF913864D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,12 +45,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "76205EAC-70B3-46C0-8E7F-F84A3B405ED9"
-    },
-    {
       "class": "text",
       "id": "F6EB9E1B-2CC4-42D7-BDD7-BAFCD187A670"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76205EAC-70B3-46C0-8E7F-F84A3B405ED9"
     }
   ],
   "name": "LeftBar/NavItem/Status",
@@ -69,7 +69,7 @@
   "symbolID": "4611D564-0EAF-4692-9D0C-A8332047BB02",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

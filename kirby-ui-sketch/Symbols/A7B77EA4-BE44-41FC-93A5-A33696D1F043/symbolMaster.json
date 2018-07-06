@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 31,
+  "changeIdentifier": 34,
   "do_objectID": "A7B77EA4-BE44-41FC-93A5-A33696D1F043",
   "exportOptions": {
     "_class": "exportOptions",
@@ -73,8 +73,8 @@
       "id": "BE3DD602-FA45-495C-A359-1E868F034DCF"
     }
   ],
-  "name": "LeftBar/EditAdd",
-  "nameIsFixed": false,
+  "name": "LeftBar/Headline-EditAdd",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,7 +89,7 @@
   "symbolID": "AEA8E966-7E98-4E79-816C-E54C4312B640",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

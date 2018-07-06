@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 194,
+  "changeIdentifier": 196,
   "do_objectID": "AEE076E1-E942-45F9-9C45-29E8DC88F3DB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,12 +45,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "240072C1-E224-4998-ACFC-577EA06BA063"
-    },
-    {
       "class": "text",
       "id": "F21E54C2-4613-402B-A67F-828528999873"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "240072C1-E224-4998-ACFC-577EA06BA063"
     }
   ],
   "name": "LeftBar/NavItem/Delete",

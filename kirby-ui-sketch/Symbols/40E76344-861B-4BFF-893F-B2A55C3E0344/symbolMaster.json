@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 47,
+  "changeIdentifier": 57,
   "do_objectID": "40E76344-861B-4BFF-893F-B2A55C3E0344",
   "exportOptions": {
     "_class": "exportOptions",
@@ -47,11 +47,15 @@
     {
       "class": "group",
       "id": "2742B491-0D8B-43B5-9969-71AB2919687F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FECD5475-B161-4326-99D1-92F860E992C3"
     }
   ],
   "name": "Form/DropDown",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -65,7 +69,7 @@
   "symbolID": "464518FE-9458-48E9-9904-766356B5A075",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

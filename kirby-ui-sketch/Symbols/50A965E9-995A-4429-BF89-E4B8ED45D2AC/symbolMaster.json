@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 185,
+  "changeIdentifier": 187,
   "do_objectID": "50A965E9-995A-4429-BF89-E4B8ED45D2AC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,12 +45,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E2FF0756-BD9D-443D-A975-2FB278722B2C"
-    },
-    {
       "class": "text",
       "id": "4B00B1B7-5E4D-4E28-850C-945A1C319C92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2FF0756-BD9D-443D-A975-2FB278722B2C"
     }
   ],
   "name": "LeftBar/NavItem/Url",

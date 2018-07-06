@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 42,
+  "changeIdentifier": 45,
   "do_objectID": "50344D72-C801-4DFC-B615-421F732F09F5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,12 +45,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "23D0D59F-5907-4228-BE31-A389EBAC2E61"
-    },
-    {
       "class": "text",
       "id": "0F07A6F1-56BD-4CF1-9667-AF0AF7CCC1E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23D0D59F-5907-4228-BE31-A389EBAC2E61"
     }
   ],
   "name": "LeftBar/NavItem/Template",
@@ -69,7 +69,7 @@
   "symbolID": "9FF2E12E-D37A-4C54-899C-A4FBC8012F3A",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {
