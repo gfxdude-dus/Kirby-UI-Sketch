@@ -12,7 +12,7 @@ To let work Git and Sketch together, simply use [Kactus](https://github.com/kact
 
 ## Screenshots
 
-![Alt text](/images/login.png?raw=true "Login Screen")
-![Alt text](/images/panel_site.png?raw=true "Panel Site")
+![Panel Login](https://artmonkey.de/github/Kirby-UI-Sketch/login.png?raw=true "Panel Login")
+![Panel Site ](https://artmonkey.de/github/Kirby-UI-Sketch/panel_site.png?raw=true "Panel Site")
 
 #### Made with love by gfx_dude | www.artmonkey.de
