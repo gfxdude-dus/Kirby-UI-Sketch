@@ -1,6 +1,6 @@
 # Kirby-UI-Sketch
 
-## Just a Sketch-App-File for KirbyCMS to make your designers life easier.
+## Just a Sketch-App-File for KirbyCMS to make your designer life easier.
 
 Visualize complex panel designs in a few klicks, plan a plugin or just let your customer know how your plans are. 
 This Sketch is for the wonderful CMS [Kirby](http://www.getkirby.com) by Bastian Allgeier.
