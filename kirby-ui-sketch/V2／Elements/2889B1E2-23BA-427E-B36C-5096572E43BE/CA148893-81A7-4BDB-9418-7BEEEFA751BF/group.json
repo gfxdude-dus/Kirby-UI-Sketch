@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "CA148893-81A7-4BDB-9418-7BEEEFA751BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 306,
+    "width": 532,
+    "x": 570,
+    "y": 238
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1DE07D11-BB21-4647-835B-3A612B587D92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0640067-1B98-4437-9568-FCC0BE15DF0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42A119E9-1EAF-4B8E-9881-2946F3449AC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B705FD5-2322-4337-9E08-4C0277B02023"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6121D34-413E-4286-9555-33DFD337027A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "822A10DE-41C1-405E-A71C-4FE3FD50C43D"
+    }
+  ],
+  "name": "Widget - Your last updates",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

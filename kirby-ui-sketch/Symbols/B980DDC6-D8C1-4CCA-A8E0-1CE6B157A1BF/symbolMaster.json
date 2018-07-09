@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 330,
+  "changeIdentifier": 431,
   "do_objectID": "B980DDC6-D8C1-4CCA-A8E0-1CE6B157A1BF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 33,
     "width": 235,
     "x": 2243,
-    "y": 255
+    "y": 402
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,12 +45,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "D589F6F7-512F-4324-848C-A6319C84E9FC"
-    },
-    {
       "class": "shapeGroup",
       "id": "FD6B3C44-AA7C-459C-91DB-85BA71B806DF"
+    },
+    {
+      "class": "text",
+      "id": "D589F6F7-512F-4324-848C-A6319C84E9FC"
     }
   ],
   "name": "Button/Default",

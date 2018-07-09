@@ -31,11 +31,11 @@
     "constrainProportions": false,
     "height": 1080,
     "width": 1920,
-    "x": 187,
-    "y": 207
+    "x": -1832,
+    "y": 1513
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -94,9 +94,13 @@
     {
       "class": "symbolInstance",
       "id": "B8E859C3-7579-462E-B344-E0FE3B891825"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4720EF5A-62EE-4C51-9ABA-1C0A892CEB96"
     }
   ],
-  "name": "Panel - Site",
+  "name": "Site",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -111,7 +115,7 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

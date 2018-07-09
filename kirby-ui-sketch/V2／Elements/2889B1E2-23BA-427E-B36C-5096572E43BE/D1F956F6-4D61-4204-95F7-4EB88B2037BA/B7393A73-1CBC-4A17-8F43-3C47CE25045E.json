@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B7393A73-1CBC-4A17-8F43-3C47CE25045E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 61,
+    "width": 496,
+    "x": 25,
+    "y": 19
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "LeftBar/Headline-EditAdd",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1FFB960-3433-4B36-9863-0671AFC3AF13",
+      "overrideName": "BE3DD602-FA45-495C-A359-1E868F034DCF_stringValue",
+      "value": "Pages"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC0F81C3-AAEA-4816-837C-0303DB9D7B08",
+      "overrideName": "E9913262-1D34-4195-90D4-B480A151BF3A_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AEA8E966-7E98-4E79-816C-E54C4312B640",
+  "verticalSpacing": 0
+}
