@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 79,
+  "changeIdentifier": 88,
   "do_objectID": "90F079E3-5E49-46E3-84C1-D0EF182F9627",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,15 +46,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "8668DF38-6EB2-4DC9-B7BC-1273390838E6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "78F322A9-D9B7-43A1-90BF-6A0AAFFC50CF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D6EF23F6-8F40-4CA0-A4E3-B183AC2AA480"
+      "id": "3890C07F-23B3-4D05-BF61-96F22E7F2FC0"
     },
     {
       "class": "symbolInstance",
@@ -62,7 +54,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "3890C07F-23B3-4D05-BF61-96F22E7F2FC0"
+      "id": "D6EF23F6-8F40-4CA0-A4E3-B183AC2AA480"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78F322A9-D9B7-43A1-90BF-6A0AAFFC50CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8668DF38-6EB2-4DC9-B7BC-1273390838E6"
     },
     {
       "class": "symbolInstance",
@@ -85,7 +85,7 @@
   "symbolID": "392D8D17-4282-4834-9B85-9C7E9399D412",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

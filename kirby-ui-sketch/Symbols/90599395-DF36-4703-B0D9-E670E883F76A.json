@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Icons"
+    "string": "Icons 16x16"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "90599395-DF36-4703-B0D9-E670E883F76A",
@@ -49,18 +49,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 50,
+    "width": 110,
     "x": 107,
     "y": -47
   },
-  "glyphBounds": "{{1, 7}, {48, 16}}",
+  "glyphBounds": "{{1, 7}, {109, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Icons",
+  "name": "Icons 16x16",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

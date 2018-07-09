@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "D02F3DD9-B69E-4094-A9FE-3AE65D1AC773",
+  "do_objectID": "AF3422A5-FB89-4EFB-9962-6B77B5C3A708",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 12,
-    "x": 782,
-    "y": 752
+    "height": 33,
+    "width": 128,
+    "x": 896,
+    "y": 625
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,9 +24,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icon/Pencil",
+  "name": "Button/Default",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A9AA226-F1B4-434B-8FAA-528EA93F39B8",
+      "overrideName": "D589F6F7-512F-4324-848C-A6319C84E9FC_stringValue",
+      "value": "Log in"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "6128C562-ADB3-4E1C-8349-0624F2049346",
+  "symbolID": "282B5158-BC6D-4EA9-80C4-0BC63828D0FA",
   "verticalSpacing": 0
 }

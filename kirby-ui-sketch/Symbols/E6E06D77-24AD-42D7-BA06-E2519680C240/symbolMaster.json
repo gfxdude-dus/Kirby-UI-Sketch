@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 597,
+  "changeIdentifier": 623,
   "do_objectID": "E6E06D77-24AD-42D7-BA06-E2519680C240",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,11 +49,11 @@
       "id": "CC1F1F32-03C9-473D-AB4E-CEE43EFFCB72"
     },
     {
-      "class": "shapeGroup",
-      "id": "C4A280B1-41F3-47BE-864B-89280F968602"
+      "class": "symbolInstance",
+      "id": "C2C0D6F5-5C8C-4661-B1CB-AB9BFC22AEB9"
     }
   ],
-  "name": "Form/Input-mandatory",
+  "name": "Form/Input with Icon",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -69,7 +69,7 @@
   "symbolID": "7836C488-37E4-4EA4-A02B-619324ACE7D7",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

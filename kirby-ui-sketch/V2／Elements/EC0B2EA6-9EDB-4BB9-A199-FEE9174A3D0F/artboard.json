@@ -1,14 +1,13 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9372549019607843,
+    "green": 0.9372549019607843,
+    "red": 0.9372549019607843
   },
-  "changeIdentifier": 57,
-  "do_objectID": "40E76344-861B-4BFF-893F-B2A55C3E0344",
+  "do_objectID": "EC0B2EA6-9EDB-4BB9-A199-FEE9174A3D0F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,12 +20,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 74,
-    "width": 1005,
-    "x": 442,
-    "y": 993
+    "height": 1080,
+    "width": 1920,
+    "x": -1832,
+    "y": 207
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -35,27 +34,41 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "2742B491-0D8B-43B5-9969-71AB2919687F"
+      "class": "shapeGroup",
+      "id": "ACFECDCA-5EDE-427E-9948-FED1F7DB387E"
     },
     {
-      "class": "shapeGroup",
-      "id": "FECD5475-B161-4326-99D1-92F860E992C3"
+      "class": "symbolInstance",
+      "id": "AF3422A5-FB89-4EFB-9962-6B77B5C3A708"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "979E4C70-92D6-4D07-8E20-18B9B80E7DD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDB9C20F-2D4E-464B-934F-230A520063E1"
     }
   ],
-  "name": "Form/DropDown",
-  "nameIsFixed": false,
-  "resizesContent": true,
+  "name": "Login",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Apple TV",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -66,7 +79,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "464518FE-9458-48E9-9904-766356B5A075",
   "userInfo": {
     "io.magicsketch.mirror": {
       "highestQuality": -1

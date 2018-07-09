@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 74,
-    "width": 1005,
+    "width": 1257,
     "x": 608,
     "y": 272
   },
@@ -29,9 +29,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B6411F55-73C7-461B-AE8D-A7F6CD1690E2",
-      "overrideName": "F6FB4A90-0831-4BF2-854F-7565B8CE4CBE_symbolID",
+      "do_objectID": "C05A5104-B252-4EA1-A1BA-3DD45ADF4B01",
+      "overrideName": "56A82542-7A68-45B7-855B-F6F38D9DD793_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82F1A82B-2719-4B97-90FA-CB38381A1489",
+      "overrideName": "C2C0D6F5-5C8C-4661-B1CB-AB9BFC22AEB9_symbolID",
+      "value": "8E1DD806-3E82-4C05-9AF3-5352F2730A76"
     }
   ],
   "resizingConstraint": 63,
@@ -45,6 +51,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "464518FE-9458-48E9-9904-766356B5A075",
+  "symbolID": "7836C488-37E4-4EA4-A02B-619324ACE7D7",
   "verticalSpacing": 0
 }

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 187,
+  "changeIdentifier": 200,
   "do_objectID": "50A965E9-995A-4429-BF89-E4B8ED45D2AC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -69,7 +69,7 @@
   "symbolID": "BC122DAD-20A0-4803-8B3D-F6DD3DA1935E",
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 2
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
