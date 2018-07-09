@@ -9,4 +9,10 @@ This Sketch is for the wonderful CMS [Kirby](http://www.getkirby.com) by Bastian
 
 To let work Git and Sketch together, simply use [Kactus](https://github.com/kactus-io/kactus)
 
+
+## Screenshots
+
+![Alt text](/images/login.png?raw=true "Login Screen")
+![Alt text](/images/panel_site.png?raw=true "Panel Site")
+
 #### Made with love by gfx_dude | www.artmonkey.de

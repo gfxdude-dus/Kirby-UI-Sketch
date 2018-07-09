@@ -32,8 +32,8 @@
       "id": "FB2C6CFC-7CE9-4B5D-AADF-F7C83CCD4918"
     }
   ],
-  "name": "Rectangle Copy",
-  "nameIsFixed": false,
+  "name": "Background LeftBar",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

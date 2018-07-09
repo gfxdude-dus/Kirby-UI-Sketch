@@ -32,8 +32,8 @@
       "id": "DDA5ED07-79D3-46AB-923E-EEE6BC01E6A0"
     }
   ],
-  "name": "Rectangle 2",
-  "nameIsFixed": false,
+  "name": "LoginBox",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
